@@ -61,7 +61,7 @@ def olha_o_pix():
  Nós aceitamos contribuições mas com uma regra importante:
  
  - ❌ | Não otimize nada
- - ❌ | Não remova passos desnecessários
+ - ❌ | Não remova nada desnecessário
  - ❌ | Não melhore a performance
  - ❌ | Não mude nada, quanto mais pior melhor 👍
 
