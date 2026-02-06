@@ -63,7 +63,7 @@ def olha_o_pix():
  - ❌ | Não otimize nada
  - ❌ | Não remova nada desnecessário
  - ❌ | Não melhore a performance
- - ❌ | Não mude nada, quanto mais pior melhor 👍
+ - ❌ | quanto mais pior melhor 👍
 
  ### O que nós queremos:
  - ✅ | Loops extras
