@@ -23,7 +23,7 @@ def enviar_bom_dia_do_zap():
     imagem_path = base_path / "assets" / "image.png"
     
     desktop = os.path.join(os.path.expanduser("~"), "Desktop")
-    destino = os.path.join(desktop, "BOM_DIA_GRUPO.jpg")
+    destino = os.path.join(desktop, "image.png")
     
     try:
         if imagem_path.exists():
