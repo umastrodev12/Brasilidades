@@ -32,6 +32,10 @@ def enviar_bom_dia_do_zap():
     except:
         pass
 
+
+def cria_pasta_bomdia():
+    os.mkdir("/bomdia")
+    print("Bomdia criado!")
 def olha_o_pix():
     print("Vende-se Celta")
     print("")
